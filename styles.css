@@ -46,3 +46,10 @@ th {
     border-radius: 8px;
     text-align: center;
 }
+a:link {
+    color: #0762c4;
+}
+
+a:visited {
+    color: #91649e;
+}
